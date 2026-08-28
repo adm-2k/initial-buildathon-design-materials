@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 336" width="1200" height="336" role="img" aria-label="The two plates: palette swatches and chart colors">
+  <rect x="0.5" y="0.5" width="1199" height="335" fill="#FFFFFF" stroke="#D9DDE7"/>
+  <line x1="0" y1="52" x2="1200" y2="52" stroke="#D9DDE7"/>
+  <text x="40" y="33" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="1.1" fill="#14204A">THE TWO PLATES</text>
+  <text x="1160" y="33" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" letter-spacing="1.1" fill="#565F7C">TWO INKS · NO BLACK · PROOF — LIGHT MODE</text>
+  <rect x="40.5" y="84.5" width="169" height="69" fill="#FFFFFF" stroke="#D9DDE7"/>
+  <text x="40" y="176" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500" letter-spacing="1.1" fill="#14204A">STOCK</text>
+  <text x="40" y="194" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" letter-spacing="1.1" fill="#565F7C">#FFFFFF</text>
+  <text x="40" y="211" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#565F7C">the paper</text>
+  <rect x="230.5" y="84.5" width="169" height="69" fill="#14204A" stroke="#D9DDE7"/>
+  <text x="230" y="176" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500" letter-spacing="1.1" fill="#14204A">INK</text>
+  <text x="230" y="194" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" letter-spacing="1.1" fill="#565F7C">#14204A</text>
+  <text x="230" y="211" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#565F7C">15.7:1</text>
+  <rect x="420.5" y="84.5" width="169" height="69" fill="#565F7C" stroke="#D9DDE7"/>
+  <text x="420" y="176" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500" letter-spacing="1.1" fill="#14204A">INK 2</text>
+  <text x="420" y="194" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" letter-spacing="1.1" fill="#565F7C">#565F7C</text>
+  <text x="420" y="211" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#565F7C">6.3:1</text>
+  <rect x="610.5" y="84.5" width="169" height="69" fill="#D6220C" stroke="#D9DDE7"/>
+  <text x="610" y="176" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500" letter-spacing="1.1" fill="#14204A">RUBRIC</text>
+  <text x="610" y="194" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" letter-spacing="1.1" fill="#565F7C">#D6220C</text>
+  <text x="610" y="211" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#565F7C">5.1:1</text>
+  <rect x="800.5" y="84.5" width="169" height="69" fill="#2438CC" stroke="#D9DDE7"/>
+  <text x="800" y="176" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500" letter-spacing="1.1" fill="#14204A">BLUE PLATE</text>
+  <text x="800" y="194" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" letter-spacing="1.1" fill="#565F7C">#2438CC</text>
+  <text x="800" y="211" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#565F7C">8.3:1</text>
+  <rect x="990.5" y="84.5" width="169" height="69" fill="#3B1355" stroke="#D9DDE7"/>
+  <text x="990" y="176" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500" letter-spacing="1.1" fill="#14204A">OVERPRINT</text>
+  <text x="990" y="194" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" letter-spacing="1.1" fill="#565F7C">#3B1355</text>
+  <text x="990" y="211" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#565F7C">graphics only</text>
+  <line x1="0" y1="228" x2="1200" y2="228" stroke="#D9DDE7"/>
+  <text x="40" y="251" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.1" fill="#D6220C">CHART PLATES — FIXED CATEGORICAL ORDER, NEVER CYCLED</text>
+  <rect x="40" y="262" width="222" height="28" fill="#2438CC"/>
+  <text x="151" y="308" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#565F7C">BLUE PLATE</text>
+  <rect x="264" y="262" width="222" height="28" fill="#D6220C"/>
+  <text x="375" y="308" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#565F7C">RED PLATE</text>
+  <rect x="488" y="262" width="222" height="28" fill="#5F71E8"/>
+  <text x="599" y="308" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#565F7C">BLUE TINT</text>
+  <rect x="712" y="262" width="222" height="28" fill="#E4602F"/>
+  <text x="823" y="308" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#565F7C">RED TINT</text>
+  <rect x="936" y="262" width="222" height="28" fill="#8A3BD4"/>
+  <text x="1047" y="308" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#565F7C">OVERPRINT</text>
+</svg>

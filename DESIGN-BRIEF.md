@@ -378,6 +378,8 @@ Every instrument keeps: folio header, apparatus margin, colophon, lexicon, token
 | `DESIGN-BRIEF.md` | This document — the one-shot handoff spec |
 | `tokens.css` | Authoritative tokens, three-state theming, base rules |
 | `CLAUDE.md` | Session guardrails for agents building the apps |
+| `README.md` | Orientation and the identity at a glance |
+| `assets/` | README figures (masthead, plates, anatomy) in both modes |
 | `DIRECTION.md` | Historical: the original proposal (palette superseded) |
 
 Copy all three live files into the build-a-thon monorepo root; each app imports

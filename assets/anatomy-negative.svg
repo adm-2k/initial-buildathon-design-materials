@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Page anatomy: folio header, text block, apparatus margin, colophon">
+  <rect x="0.5" y="0.5" width="1199" height="459" fill="#0C1023" stroke="#2B3254"/>
+  <line x1="0" y1="52" x2="1200" y2="52" stroke="#2B3254"/>
+  <text x="40" y="33" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="1.1" fill="#EDEFF6">PAGE ANATOMY — EVERY VIEW, EVERY INSTRUMENT</text>
+  <text x="1160" y="33" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" letter-spacing="1.1" fill="#9AA1BD">LAYOUT IS THE BRAND</text>
+
+  <rect x="40.5" y="84.5" width="1119" height="335" fill="#151B34" stroke="#2B3254"/>
+  <line x1="40" y1="132" x2="1160" y2="132" stroke="#2B3254"/>
+  <text x="64" y="114" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1.1" fill="#FF5C40">FOLIO HEADER</text>
+  <text x="1136" y="114" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="400" letter-spacing="1.1" fill="#9AA1BD">INSTRUMENT ( N°02 ) · status="draft"</text>
+
+  <line x1="880" y1="132" x2="880" y2="372" stroke="#2B3254"/>
+  <text x="64" y="163" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1.1" fill="#FF5C40">TEXT BLOCK — THE USER'S MATERIAL</text>
+  <rect x="64" y="181" width="520" height="12" fill="#EDEFF6" opacity="0.82"/>
+  <rect x="64" y="274" width="252" height="19" fill="#7C8CFF" opacity="0.13"/>
+  <rect x="64" y="208" width="770" height="7" fill="#EDEFF6" opacity="0.28"/>
+  <rect x="64" y="226" width="750" height="7" fill="#EDEFF6" opacity="0.28"/>
+  <rect x="64" y="244" width="766" height="7" fill="#EDEFF6" opacity="0.28"/>
+  <rect x="64" y="262" width="720" height="7" fill="#EDEFF6" opacity="0.28"/>
+  <rect x="64" y="280" width="758" height="7" fill="#EDEFF6" opacity="0.28"/>
+  <rect x="64" y="298" width="700" height="7" fill="#EDEFF6" opacity="0.28"/>
+  <rect x="64" y="316" width="610" height="7" fill="#EDEFF6" opacity="0.28"/>
+  <rect x="364" y="244" width="132" height="7" fill="#FF5C40"/>
+  <text x="64" y="350" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#9AA1BD">set in the manuscript voice · rubricated where the author instructs</text>
+
+  <text x="904" y="163" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1.1" fill="#FF5C40">APPARATUS MARGIN</text>
+  <rect x="904" y="184" width="6" height="6" fill="#FF5C40"/>
+  <rect x="918" y="185" width="182" height="5" fill="#EDEFF6" opacity="0.34"/>
+  <rect x="918" y="196" width="140" height="5" fill="#EDEFF6" opacity="0.34"/>
+  <rect x="904" y="220" width="6" height="6" fill="#7C8CFF"/>
+  <rect x="918" y="221" width="182" height="5" fill="#EDEFF6" opacity="0.34"/>
+  <rect x="918" y="232" width="140" height="5" fill="#EDEFF6" opacity="0.34"/>
+  <rect x="904" y="256" width="6" height="6" fill="#9AA1BD"/>
+  <rect x="918" y="257" width="182" height="5" fill="#EDEFF6" opacity="0.34"/>
+  <rect x="918" y="268" width="140" height="5" fill="#EDEFF6" opacity="0.34"/>
+  <rect x="904.5" y="300.5" width="119" height="23" fill="none" stroke="#FF5C40"/>
+  <text x="964" y="316" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1.1" fill="#FF5C40">IN REGISTER</text>
+
+  <line x1="40" y1="372" x2="1160" y2="372" stroke="#2B3254"/>
+  <text x="64" y="401" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1.1" fill="#FF5C40">COLOPHON</text>
+  <text x="1086" y="401" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="400" letter-spacing="1.1" fill="#9AA1BD">SET IN ARCHIVO, IBM PLEX MONO &amp; STIX TWO TEXT</text>
+  <circle cx="1126" cy="396" r="15" fill="none" stroke="#FF5C40"/>
+  <circle cx="1126" cy="396" r="9" fill="none" stroke="#FF5C40" opacity="0.5"/>
+  <text x="1126" y="400" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" font-weight="600" letter-spacing="1.1" fill="#FF5C40">&lt;/&gt;</text>
+</svg>
