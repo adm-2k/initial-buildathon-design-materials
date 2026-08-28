@@ -4,8 +4,12 @@
 digital-humanities tools (ontology builders, XML tools, and adjacent instruments) on a
 single deployment.
 
-**Status:** PROPOSAL — for review and confirmation before the full specification
-(`DESIGN-SPEC.md`, tokens, brand book, per-app guides) is written.
+**Status:** SUPERSEDED (kept for history). After review, the warm-cream/vermilion
+palette in §5 was replaced by a two-plate duotone — stark white stock, red + Prussian
+blue inks — with validated accessibility in light ("Proof") and dark ("Negative")
+modes. The authoritative, agent-ready specification is now **`DESIGN-BRIEF.md`** with
+tokens in **`tokens.css`** and session guardrails in **`CLAUDE.md`**. Everything else
+in this document (concept, naming, behaviors, layout architecture) carried forward.
 
 ---
 
